@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f18bc
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me: https://www.linkedin.com/in/bochenfu/
